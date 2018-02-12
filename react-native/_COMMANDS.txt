@@ -1,0 +1,5 @@
+react-native init AppName
+react-native run-android
+
+npm install -g react-native-git-upgrade
+react-native-git-upgrade
