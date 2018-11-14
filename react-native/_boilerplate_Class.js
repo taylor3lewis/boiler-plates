@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, text } from 'react-native';
 
 class MyClasseName extends Component {
     render() {
         return (
-            <View />
+            <View>
+                <Text>MyClasseName</Text>
+            </View>
         );
     }
 }
